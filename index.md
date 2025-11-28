@@ -1,5 +1,11 @@
 # 📚 Masters Summary – Study Notes
 
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js">
+</script>
+
+
+
 Welcome to my academic summary hub.  
 This website collects and organizes course notes into clean, structured modules — accessible anytime, anywhere.
 
