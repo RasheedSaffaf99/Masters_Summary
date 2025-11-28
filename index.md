@@ -1,18 +1,49 @@
-# Masters Summary Website
+# 📚 Masters Summary – Study Notes
 
-Welcome to my Masters summary repository.  
-Click on any course below to view detailed summaries, formulas, and notes.
-
----
-
-## 📘 Courses
-
-- [ISYE 6644 – Simulation](isye6644.md)
-- [ISYE 6501 – Intro to Analytics Modeling](isye6501.md)
-- [MGT 6203 – Business Analytics](mgt6203.md)
-- [CSE 6040 – Computing for Data Analysis](cse6040.md)
-- [ISYE 6740 – Machine Learning](isye6740.md)
+Welcome to my academic summary hub.  
+This website collects and organizes course notes into clean, structured modules — accessible anytime, anywhere.
 
 ---
 
-> **Note:** This site is under construction.
+## 📁 Available Modules
+
+### 🔵 Module 14 – Neural Networks  
+A complete breakdown of neural network fundamentals, including:
+- Feed-Forward Networks
+- Activation functions
+- Multi-layer architectures
+- Backpropagation & optimization
+- Regularization & dropout
+- Hyperparameter tuning  
+
+📄 **Read here:**  
+👉 [Module14_NeuralNetworks.md](Module14_NeuralNetworks.md)
+
+---
+
+### 🏗 More modules coming soon...
+- Module 15 – CNNs  
+- Module XX – Survival Models  
+- Module XX – Discrete Choice Models  
+- …and others
+
+---
+
+## 💡 Purpose of This Site
+
+This repository acts as a structured learning archive — useful for revision, interviews, and long-term retention.  
+As more modules are summarized, they will be added here automatically.
+
+---
+
+### 🔗 Repo Navigation
+
+| Section | Link |
+|-------|------|
+| Main Repo | `https://github.com/<your-username>/<repo-name>` |
+| Website version | `https://<your-username>.github.io/<repo-name>/` |
+
+---
+
+Made with ❤️ & Markdown  
+*Always learning, always improving.*
